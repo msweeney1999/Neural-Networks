@@ -45,3 +45,4 @@ var nn = new NeuralNetwork(inputs, hidden, outputs, 'sigmoid');
 ```javascript
 var nn = new NeuralNetwork(inputs, hidden, outputs, 'tanh');
 ```
+
